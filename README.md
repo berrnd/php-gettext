@@ -1,5 +1,13 @@
-Gettext
-=======
+# php-gettext
+
+-----
+-----
+> [!NOTE]
+> This is my personal fork of [php-gettext/Gettext](https://github.com/php-gettext/Gettext) (v4.x), which I use in some of my hobby projects (e.g. [Grocy](https://grocy.info)) with some individual fixes and/or customizations.
+-----
+-----
+
+<details><summary>Original README</summary>
 
 [![Build Status](https://travis-ci.org/oscarotero/Gettext.png?branch=master)](https://travis-ci.org/oscarotero/Gettext)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/oscarotero/Gettext/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/oscarotero/Gettext/?branch=master)
@@ -423,3 +431,4 @@ If this library is useful for you, consider to donate to the author.
 [Buy me a beer :beer:](https://www.paypal.me/oscarotero)
 
 Thanks in advance!
+</details>
