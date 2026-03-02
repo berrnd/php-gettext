@@ -186,8 +186,8 @@ class Translator extends BaseTranslator implements TranslatorInterface
      */
     protected function getTranslation($domain, $context, $original)
     {
-        return isset($this->dictionary[$domain][$context][$original])
-             ? $this->dictionary[$domain][$context][$original]
+        return isset($this->dictionary[$domain][$context ?? ''][$original])
+             ? $this->dictionary[$domain][$context ?? ''][$original]
              : false;
     }
 
