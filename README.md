@@ -3,7 +3,7 @@
 -----
 -----
 > [!NOTE]
-> This is my personal fork of [php-gettext/Gettext](https://github.com/php-gettext/Gettext) (v4.x), which I use in some of my hobby projects (e.g. [Grocy](https://grocy.info)) with some individual fixes and/or customizations.
+> This is my personal fork of [php-gettext/Gettext](https://github.com/php-gettext/Gettext) (v4.x), which I use in some of my hobby projects (e.g. [Grocy](https://grocy.info)) with a few individual fixes and/or customizations.
 -----
 -----
 
